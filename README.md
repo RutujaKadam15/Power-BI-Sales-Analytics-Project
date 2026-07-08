@@ -45,3 +45,10 @@ End-to-end Sales Analytics dashboard built using Power BI and SQL Server. Featur
 - 📊 **Sales Analysis Dashboard.pbix** – Download and open this file using **Power BI Desktop** to explore the interactive dashboard.
 - 🗄️ **SalesAnalyticProject.sql** – SQL scripts used for data preparation, transformation, and analysis.
 - 📸 **Screenshots** – Preview images of the dashboard pages.
+
+- ## 🔗 Related Project
+
+This dashboard was built using the SQL database and analysis from my **Sales Analytics SQL Project**.
+
+👉 SQL Repository:
+
