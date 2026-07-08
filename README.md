@@ -50,5 +50,5 @@ End-to-end Sales Analytics dashboard built using Power BI and SQL Server. Featur
 
 This dashboard was built using the SQL database and analysis from my **Sales Analytics SQL Project**.
 
-👉 SQL Repository:
+👉 SQL Repository:https://github.com/RutujaKadam15/SQL-Sales-Data-Analytics-Project
 
