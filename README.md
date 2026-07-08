@@ -39,3 +39,9 @@ End-to-end Sales Analytics dashboard built using Power BI and SQL Server. Featur
 - Compared geographic sales.
 - Evaluated customer behavior.
 - Built interactive KPI dashboards for business decisions.
+
+- ## 📂 Project Files
+
+- 📊 **Sales Analysis Dashboard.pbix** – Download and open this file using **Power BI Desktop** to explore the interactive dashboard.
+- 🗄️ **SalesAnalyticProject.sql** – SQL scripts used for data preparation, transformation, and analysis.
+- 📸 **Screenshots** – Preview images of the dashboard pages.
